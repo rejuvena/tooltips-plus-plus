@@ -1,0 +1,1 @@
+Tooltips++ is a configuration-focused tooltip overhaul mod. It aims to rework tooltips while keeping every feature and change completely configurable, meaning you can enable and disable everything (and can choose to customize them in different ways if applicable).
