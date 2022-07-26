@@ -1,4 +1,4 @@
-_Insert something here about C++.__
+_Insert something here about C++._
 
 ---
 
