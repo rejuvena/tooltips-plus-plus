@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipsPlusPlus", "TooltipsPlusPlus.csproj", "{4C7713E8-30C3-4F55-A682-C680E9C301C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mod Project Files", "Mod Project Files", "{F01A6999-F49B-4ECC-A65C-DB6F01659DBA}"
+	ProjectSection(SolutionItems) = preProject
+		icon.png = icon.png
+		description.txt = description.txt
+		build.txt = build.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
